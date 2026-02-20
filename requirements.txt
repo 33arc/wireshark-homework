@@ -1,6 +1,9 @@
 appdirs==1.4.4
+cffi==2.0.0
+cryptography==46.0.5
 lxml==6.0.2
 packaging==26.0
+pycparser==3.0
 pyshark==0.6
 scapy==2.7.0
 termcolor==3.3.0
